@@ -1,0 +1,5 @@
+id_Glasses,brand,graduation_L,graduation_R,frame_type,frame_color,glass_color_L,glass_color_R,price,Provider_id_Provider,Employer_id_Employer,Customer_id_Customer
+5001,Vegas,0.75,1,flotant,vermell,groc,groc,160.99,002,1001,03
+5002,Chi-Chi,2.5,3,pasta,negre,blau,blau,184.99,001,1003,02
+5003,Nacoon,5,4.75,metàl·lica,marró,groc,groc,136.50,003,1004,01
+5004,Snooze,3.5,3.5,pasta,blanc,rosa,rosa,87.50,004,1002,01

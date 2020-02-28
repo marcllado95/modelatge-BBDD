@@ -1,0 +1,4 @@
+id_Customer,name,mobile,e-mail,postal_code,register_date,recommended_by
+01,"Baptiste Mohr","+32 510289785",baptiste_mohr@gmail.com,80147,2012-04-18,"Maxime Van Gaal"
+"02 ","Maxime Van Gaal","+44 558969631",maxvgaal@yahoo.com,60147,2009-02-05,NULL
+03,"Didac Giró","+34 325896664",didac_g@gmail.com,80369,2019-07-28,"Baptiste Mohr"
